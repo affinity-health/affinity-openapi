@@ -15,8 +15,5 @@ Fern generates each SDK from this contract. Install the TypeScript SDK from npm;
 | Go | [affinity-health/affinity-go](https://github.com/affinity-health/affinity-go) |
 | Java | [affinity-health/affinity-java](https://github.com/affinity-health/affinity-java) |
 | C# | [affinity-health/affinity-csharp](https://github.com/affinity-health/affinity-csharp) |
-| PHP | [affinity-health/affinity-php](https://github.com/affinity-health/affinity-php) |
-| Ruby | [affinity-health/affinity-ruby](https://github.com/affinity-health/affinity-ruby) |
-| Rust | [affinity-health/affinity-rust](https://github.com/affinity-health/affinity-rust) |
 
 To generate a client in another language, use the live document above.
