@@ -1,6 +1,6 @@
 # Affinity OpenAPI
 
-**This repository does not publish a specification or a package.** The API serves its contract at [api.affinityrx.com/v1/openapi.json](https://api.affinityrx.com/v1/openapi.json). The current `Affinity-Version` is `2026-11-01`. Send that value in the `Affinity-Version` header of every request. Staging serves it now at [api-staging.affinityrx.com/v1/openapi.json](https://api-staging.affinityrx.com/v1/openapi.json); production serves `2026-10-28` until its next release.
+**This repository does not publish a specification or a package.** The API serves its contract at [api.affinityrx.com/v1/openapi.json](https://api.affinityrx.com/v1/openapi.json). The current `Affinity-Version` is `2026-11-01`. Send that value in the `Affinity-Version` header of every request. Production and staging ([api-staging.affinityrx.com/v1/openapi.json](https://api-staging.affinityrx.com/v1/openapi.json)) both serve it.
 
 The [API documentation](https://docs.affinityrx.com/) describes authentication, Test and Live mode, and every operation.
 
