@@ -10,7 +10,7 @@ Fern generates each SDK from this contract. Install the TypeScript SDK from npm;
 
 | Language | Repository |
 | --- | --- |
-| TypeScript | [affinity-health/affinity-typescript](https://github.com/affinity-health/affinity-typescript) (`@affinity-health/sdk@next` on npm) |
+| TypeScript | [affinity-health/affinity-typescript](https://github.com/affinity-health/affinity-typescript) (`@affinity-health/sdk` on npm) |
 | Python | [affinity-health/affinity-python](https://github.com/affinity-health/affinity-python) |
 | Go | [affinity-health/affinity-go](https://github.com/affinity-health/affinity-go) |
 | Java | [affinity-health/affinity-java](https://github.com/affinity-health/affinity-java) |
